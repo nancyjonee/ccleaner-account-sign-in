@@ -11,7 +11,7 @@ How to Sign In to Your CCleaner Account Easily? 🚀
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/ccleaner-sign-in-account
+   :target: https://fixmestick-account-sign-in.readthedocs.io/en/latest/_images/signin.png
 _____
 
 In today’s digital world, managing your computer’s performance has never been easier, thanks to tools like CCleaner. Whether you’re a tech-savvy user or just someone looking to keep your PC clean and optimized, having a CCleaner account allows you to unlock premium features, sync settings, and manage multiple devices efficiently. However, many users find themselves puzzled at the simple step of a ccleaner account sign in. Don’t worry — in this guide, we’ll walk you through the process step-by-step and share useful tips to make signing into your CCleaner account a breeze! 💡
